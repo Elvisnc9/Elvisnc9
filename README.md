@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing Interactive Flutter apps with advanced features<br>👯 I’m looking to collaborate on Exciting Flutter Projects that challenges both design and performance<br>🤝 I’m looking for help with Optimizing large-Scale flutter apps<br>💬 Ask me about Creating responsive UIs and Managing Complex apps<br>⚡ Fun fact I've been using Flutter Since its early Days & love building seamless user experience
+🔭A passionate Flutter and backend developer focused on building clean, responsive, and user-friendly digital products. Skilled in creating smooth mobile experiences, reliable APIs, and modern interfaces that feel simple, fast, and useful.
+
+ Always exploring better ways to combine design, performance, and functionality to create products that solve real problems and deliver meaningful user experiences.
+
+Driven by curiosity, consistency, and the goal of building technology that can make an impact in Africa and beyond
 
 ## 🌐  Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/elviznc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ElvisNgwu?t=i9DX6aesJBeiVfiv6kLGkQ&s=09) [![Portfolio](https://img.shields.io/badge/Portfolio-black,plastic)](https://elvisngwu.framer.website/)
