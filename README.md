@@ -1,5 +1,13 @@
 # 💫 About Me:
-A software developer passionate about building nextgeneration technology through Artificial Intelligence and Augmented Reality.<br>I’m currently working on next generation AI and Augmented Reality projects, exploring how emerging technologies can create smarter and more human-centered experiences.<br>Looking to collaborate on evolving projects that combine innovation, creativity, and technology to solve real-world problems.<br>Exploring and Researching about Language Models, Large Language Models (LLMs), natural language processing, and Augmented Reality.<br>Flutter development, AI applications, backend systems, software architecture, and building modern digital products.<br>There is nothing fun about me, I’m focused on building something the world will remember.
+A software developer passionate about building technology through Artificial Intelligence and Augmented Reality.<br>
+
+I’m currently working on next generation AI and Augmented Reality projects, also exploring how emerging technologies can create smarter and more human-centered experiences.<br>
+
+Looking to collaborate on evolving projects that combine innovation, creativity, and technology to solve real-world problems.<br>
+
+Exploring and Researching about Language Models, Large Language Models (LLMs), natural language processing, and Augmented Reality.<br>Flutter development, AI applications, backend systems, software architecture, and building modern digital products.<br>
+
+There is nothing fun about me, I’m focused on building something the world will remember.
 
 
 ## 🌐 Socials:
